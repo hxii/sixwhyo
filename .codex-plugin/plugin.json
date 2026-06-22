@@ -1,0 +1,30 @@
+{
+  "name": "sixwhyo",
+  "version": "1.0.0",
+  "description": "A six-year-old code reviewer who asks 'why?' about everything. Catches over-engineering, confusing names, and unnecessary complexity.",
+  "author": {
+    "name": "Paul (hxii) Glushak",
+    "url": "https://github.com/hxii"
+  },
+  "homepage": "https://github.com/hxii/sixwhyo",
+  "repository": "https://github.com/hxii/sixwhyo",
+  "license": "MIT",
+  "keywords": ["minimalism", "code-review", "productivity"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sixwhyo",
+    "shortDescription": "Six-year-old reviewing your code.",
+    "longDescription": "A six-year-old code reviewer who asks 'why?' about everything. Catches over-engineering, confusing names, and unnecessary complexity.",
+    "developerName": "Paul (hxii) Glushak",
+    "category": "Productivity",
+    "capabilities": ["Instructions", "Lifecycle hooks"],
+    "websiteURL": "https://github.com/hxii/sixwhyo",
+    "defaultPrompt": [
+      "Ask the six-year-old",
+      "Check the code for over-engineering"
+    ],
+    "brandColor": "#111111",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

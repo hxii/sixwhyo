@@ -1,0 +1,19 @@
+{
+  "name": "sixwhyo",
+  "version": "1.0.0",
+  "description": "A six-year-old code reviewer who asks 'why?' about everything. Catches over-engineering, confusing names, and unnecessary complexity.",
+  "repository": "github:hxii/sixwhyo",
+  "license": "MIT",
+  "keywords": [
+    "pi-package",
+    "omp-plugin",
+    "skill",
+    "code-review",
+    "simplicity"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
