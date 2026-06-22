@@ -1,4 +1,4 @@
-![sixwhyo](./sixwhyo.svg)
+![sixwhyo](./assets/sixwhyo.svg)
 
 # sixwhyo (6 y.o.)
 
@@ -28,12 +28,11 @@ The inspiration for this was:
 
 ## Usage
 
-| Trigger | What happens |
-|---|---|
-| Say `6yo` | The kid turns on and stays on. Persists across responses until you say `stop` or `go to your room`. |
-| `sixwhyo-simplify` | One-shot: reviews and rewrites the code, then exits. |
-| `sixwhyo-summarize` | One-shot: produces a 1-2 line summary of the file, then exits. |
-
+| Trigger             | What happens                                                                                        |
+| ------------------- | --------------------------------------------------------------------------------------------------- |
+| Say `6yo`           | The kid turns on and stays on. Persists across responses until you say `stop` or `go to your room`. |
+| `sixwhyo-simplify`  | One-shot: reviews and rewrites the code, then exits.                                                |
+| `sixwhyo-summarize` | One-shot: produces a 1-2 line summary of the file, then exits.                                      |
 
 ## Install
 
